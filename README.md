@@ -65,7 +65,7 @@ The prediction charts of both the models are shown here.
 
 ![30 days prediction](30.png)
 
-![60 days prediction](60png)
+![60 days prediction](60.png)
 
 
 
